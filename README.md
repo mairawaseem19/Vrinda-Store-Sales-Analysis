@@ -1,4 +1,4 @@
-# Vrinda-Store-Sales-Analysis
+# Vrinda-Store-Sales-Analysis By Using Excel
 Project Objective : This an Excel Based Project whose main Objective is to Analyse the Sales Of Vrinda Store so that they can analyze their customer needs & Grow their Sales.
 
 Sample Questions Solved While Analyzing data :
